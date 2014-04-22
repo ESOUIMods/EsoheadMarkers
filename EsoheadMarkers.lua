@@ -7,7 +7,7 @@ EHM.material = {
 	{pinType = "clothing", texture = "EsoUI/Art/Characterwindow/gearslot_tabard.dds", tooltip = "Clothing Material", size = 20 },
 	{pinType = "rune", texture = "EsoUI/Art/Crafting/enchantment_tabicon_essence_down.dds", tooltip = "Runestone", size = 20 },
 	{pinType = "alchemy", texture = "EsoUI/Art/Crafting/alchemy_tabicon_reagent_down.dds", tooltip = "Alchemy Ingredient", size = 20 },
-	{pinType = "provisioning", texture = "EsoheadMarkers/clothing.dds", tooltip = "Provision Material", size = 20 },
+	{pinType = "provisioning", texture = "EsoheadMarkers/Textures/clothing.dds", tooltip = "Provision Material", size = 20 },
 	{pinType = "wood", texture = "EsoUI/Art/MapPins/AvA_lumbermill_Neutral.dds", tooltip = "Wood", size = 20 }
 }
 
