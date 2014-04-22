@@ -5,7 +5,7 @@
 ## DependsOn: Esohead
 ## SavedVariables: EsoheadMarkers_SavedVariables
 
-CustomMapPins/CustomMapPins.lua
 Skyshards.lua
 EsoheadMarkers.lua
 EsoheadFilters.lua
+EsoheadCompass.lua
