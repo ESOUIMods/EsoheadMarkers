@@ -1,11 +1,13 @@
 ## Title: EsoheadMarkers
-
+## Version: 2.4.2
 ## Author: Shinni
 ## APIVersion: 100003
 ## DependsOn: Esohead
 ## SavedVariables: EsoheadMarkers_SavedVariables
 
-Skyshards.lua
+Libs/CustomCompassPins/CustomCompassPins.lua
+
 EsoheadMarkers.lua
 EsoheadFilters.lua
 EsoheadCompass.lua
+Skyshards.lua
